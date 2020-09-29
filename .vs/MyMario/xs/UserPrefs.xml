@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F8A4111E-A80C-4A6F-8E5E-18325943BC84}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyMario PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game/Game1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="17" Column="2" />
+      <File FileName="Content/HUD.spritefont" />
+      <File FileName="../../.nuget/packages/monogame.content.builder.task/3.8.0.1641/build/MonoGame.Content.Builder.Task.targets" />
+      <File FileName="Game1.cs" />
+      <File FileName="Levels/LevelLoader.cs" Line="211" Column="56" />
+      <File FileName="UniversalSprite/UniversalSpriteFactory.cs" Line="84" Column="113" />
+      <File FileName="obj/Debug/netcoreapp3.1/MyMario.AssemblyInfo.cs" Line="19" Column="3" />
+      <File FileName="UniversalSprite/SpriteSheetInfo.xml" Line="1" Column="1" />
+      <File FileName="Game/Game1.cs" Line="43" Column="37" />
+      <File FileName="Game/GameVariables.cs" Line="32" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyMario" expanded="True">
+            <Node name="MyMario" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Enemies" expanded="True" />
+              <Node name="Game" expanded="True">
+                <Node name="Game1.cs" selected="True" />
+              </Node>
+              <Node name="Levels" expanded="True" />
+              <Node name="UniversalSprite" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

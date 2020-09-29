@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.LevelObjectData[]">
+
+    <!--World Info-->
+    <WorldInfo>
+      <LevelStartTotalTime>-150 150</LevelStartTotalTime>
+    </WorldInfo>
+    <Item>
+      <ObjectType>Mario</ObjectType>
+      <ObjectName>Mario</ObjectName>
+      <Location>100 450</Location>
+    </Item>
+
+    <!--|||||||||||||||||||||||||||||||||||| -->
+    <!--|||||||||||||||||||||||||||||||||||| -->
+    
+    <!--Level 2 Part 1 Hidden Block Platform -->    
+    <!--       x val range: -155, 345        -->
+       
+    <!--|||||||||||||||||||||||||||||||||||| -->
+    <!--|||||||||||||||||||||||||||||||||||| -->
+    
+    <!--Ground Path-->
+    <Item>
+      <Build>10 2</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>-155 560</Location>
+    </Item>
+
+    <!--Wall 1 -->
+    <Item>
+      <Build>1 5</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>-155 470</Location>
+    </Item>
+    
+    <!-- Platform 1 --> 
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>CoinItemBlock</ObjectName>
+      <Location>-107 335</Location>
+    </Item>
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>BigMushroomItemBlock</ObjectName>
+      <Location>-62 335</Location>
+    </Item>
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>CoinItemBlock</ObjectName>
+      <Location>-17 335</Location>
+    </Item>
+    
+    <!-- Hidden Block above Platform 1 --> 
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>StarHiddenBlock</ObjectName>
+      <Location>-107 175</Location>
+    </Item>
+    
+     <!--Platform 2 -->    
+    <Item>
+      <Build>3 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>CoinBrickBlock</ObjectName>
+      <Location>160 200</Location>
+    </Item>
+    
+    <!-- Hidden Block Platform --> 
+    <Item>
+      <Build>3 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>CoinHiddenBlock</ObjectName>
+      <Location>160 380</Location>
+    </Item>
+    
+    <!--Wall 2 -->
+    <Item>
+      <Build>1 7</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>295 470</Location>
+    </Item>
+    
+    <!-- Enemies 1 -->
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>0 290</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Lakitu</ObjectName>
+      <Location>400 75</Location>
+    </Item>
+    
+    <!-- Background 1 -->
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>LittleHill</ObjectName>
+      <Location>-100 410</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigHill</ObjectName>
+      <Location>45 410</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud3</ObjectName>
+      <Location>165 75</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud1</ObjectName>
+      <Location>465 75</Location>
+    </Item>
+
+
+    <!--|||||||||||||||||||||||||| -->
+    <!--|||||||||||||||||||||||||| -->
+    
+    <!--Level 2 Part 2 Pipe Canyon -->
+    <!--  x val range: 345, 2795   -->    
+    
+    <!--|||||||||||||||||||||||||| -->
+    <!--|||||||||||||||||||||||||| -->
+    
+    <!-- Plateau 1 -->     
+    <Item>
+      <Build>3 9</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>345 560</Location>
+    </Item>
+      
+    <!-- Pipe 1 -->     
+    <Item>
+        <Extend>8</Extend>
+        <ObjectType>Pipe</ObjectType>
+        <ObjectName>RegularPipe</ObjectName>
+        <Location>795 200</Location>
+    </Item>
+
+    <!-- Pipe 2 --> 
+    <Item>
+        <Extend>6</Extend>
+        <ObjectType>Pipe</ObjectType>
+        <ObjectName>RegularPipe</ObjectName>
+        <Location>1195 290</Location>
+    </Item>
+
+    <!-- Pipe 3 --> 
+    <Item>
+        <Extend>4</Extend>
+        <ObjectType>Pipe</ObjectType>
+        <ObjectName>RegularPipe</ObjectName>
+        <Location>1595 380</Location>
+    </Item>
+        
+    <!-- Plateau 2 --> 
+    <Item>
+      <Build>1 4</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>1945 560</Location>
+    </Item>
+    <Item>
+      <Build>10 3</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>1995 560</Location>
+    </Item>
+    <Item>
+      <Build>1 4</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>2495 560</Location>
+    </Item>
+    
+    <!--Platform 1-->
+    <Item>
+      <Build>3 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>CoinBrickBlock</ObjectName>
+      <Location>2052 305</Location>
+    </Item>
+    
+    <!--Hidden Block Platform-->
+    <Item>
+      <Build>3 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>CoinHiddenBlock</ObjectName>
+      <Location>2302 305</Location>
+    </Item>
+    
+    <!--Platform 2-->
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>CoinItemBlock</ObjectName>
+      <Location>2302 140</Location>
+    </Item>
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>FireFlowerItemBlock</ObjectName>
+      <Location>2347 140</Location>
+    </Item>
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>CoinItemBlock</ObjectName>
+      <Location>2392 140</Location>
+    </Item>
+    
+    <!--Background 2-->
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud2</ObjectName>
+      <Location>965 100</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud1</ObjectName>
+      <Location>1265 200</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud3</ObjectName>
+      <Location>1945 100</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud2</ObjectName>
+      <Location>2245 200</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud1</ObjectName>
+      <Location>1495 300</Location>
+    </Item>    
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Bush1</ObjectName>
+      <Location>2000 425</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Bush2</ObjectName>
+      <Location>2100 425</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>LittleHill</ObjectName>
+      <Location>2150 375</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigHill</ObjectName>
+      <Location>2250 375</Location>
+    </Item>
+    
+    <!-- Pipe 4 -->     
+    <Item>
+        <Extend>6</Extend>
+        <ObjectType>Pipe</ObjectType>
+        <ObjectName>RegularPipe</ObjectName>
+        <Location>2670 250</Location>
+    </Item>
+    
+    <!--Enemies 2-->
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>2095 315</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>2195 315</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>HammerBro</ObjectName>
+      <Location>2345 95</Location>
+    </Item>
+    
+    <!--|||||||||||||||||||||||||| -->
+    <!--|||||||||||||||||||||||||| -->
+    
+    <!--Level 2 Part 3 Hammerbro Maze -->
+    <!--    x val range: 2845, end    -->    
+    
+    <!--|||||||||||||||||||||||||| -->
+    <!--|||||||||||||||||||||||||| -->    
+
+    <!-- Maze Ceiling -->    
+    <Item>
+      <Build>18 1</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>2845 -25</Location>
+    </Item>
+    
+    <!-- Maze Left Wall -->
+    <Item>
+      <Build>2 10</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>2845 560</Location>
+    </Item>
+    
+    <!-- Maze Right Wall -->
+    <Item>
+      <Build>2 9</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>3745 335</Location>
+    </Item>
+    
+    <!-- Maze Floor 3 -->    
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>2945 110</Location>
+    </Item>
+    <Item>
+      <Build>14 1</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>2945 155</Location>
+    </Item>
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>3545 110</Location>
+    </Item>
+    
+    <!-- Maze Floor 2 --> 
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>3045 290</Location>
+    </Item>
+    <Item>
+      <Build>14 1</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>3045 335</Location>
+    </Item>
+
+    <!-- Maze Ground Floor -->   
+    <Item>
+      <Build>55 2</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>2945 560</Location>
+    </Item>
+    
+    <!--Background 3-->
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Bush1</ObjectName>
+      <Location>2945 470</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud3</ObjectName>
+      <Location>2895 75</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Cloud1</ObjectName>
+      <Location>3345 75</Location>
+    </Item>
+    
+    <!--Enemies 3-->
+    
+    <!--Floor 3 Enemies-->
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>3045 110</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>3145 110</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>3245 110</Location>
+    </Item> 
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>3345 110</Location>
+    </Item>
+
+    <!--Floor 2 Enemies-->
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>3145 291</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>3245 291</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>3345 291</Location>
+    </Item>   
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>3445 291</Location>
+    </Item>
+
+    <!--Ground Floor Enemies-->    
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>3345 470</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>3445 470</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Goomba</ObjectName>
+      <Location>3545 470</Location>
+    </Item>
+    <Item>
+      <ObjectType>Enemy</ObjectType>
+      <ObjectName>Koopa</ObjectName>
+      <Location>3645 470</Location>
+    </Item>
+       
+    <!--End of Level-->
+       
+    <!--Stairs -->
+    <Item>
+      <Build>6 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>4095 470</Location>
+    </Item>
+    <Item>
+      <Build>5 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>4145 425</Location>
+    </Item>
+    <Item>
+      <Build>4 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>4195 380</Location>
+    </Item>
+    <Item>
+      <Build>3 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>4245 335</Location>
+    </Item>
+    <Item>
+      <Build>2 1</Build>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>4295 290</Location>
+    </Item>  
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>4345 245</Location>
+    </Item>
+
+    <!--End -->    
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Flag</ObjectName>
+      <Location>4740 99</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>FlagPole</ObjectName>
+      <Location>4750 75</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Castle</ObjectName>
+      <Location>4900 275</Location>
+    </Item> 
+
+    <Item>
+      <ObjectType>Block</ObjectType>
+      <ObjectName>HardBlock</ObjectName>
+      <Location>4745 470</Location>
+    </Item>  
+   
+  </Asset>
+</XnaContent>

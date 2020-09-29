@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/mcguckin/Projects/MyMario/Content/BigMario.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Blocks.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Bushes.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/CarbonFiberBlackTexture.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Castle.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Clouds.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/dead.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/FireBalls.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Flag.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/FlagPole.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/game over 2.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/game over.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Goomba.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/hills.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/HUD.spritefont</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/hurry overworld.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/hurry underground.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Items.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Koopa.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/level complete.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/LittleMario.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/main theme overworld.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/nsmbFlagPole.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/nsmbStomp2.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/PausedShader.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Pipe3.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb 1-up.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb breakblock.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb bump.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb coin.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb fireball.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb fireworks.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb flagpole.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb jump small.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb jump super.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb kick.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb mariodie.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb pause.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb pipe.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb powerup appears.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb powerup.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb stage clear.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb stomp.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb warning.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb2 coin.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb2 shrink.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb3 breakbrickblock.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/smb3 kick.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/starman.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/underworld.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/youre dead.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Hammers.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/nsmbwiiMenuChoose.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/nsmbwiiMenuSelect.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Lakitu.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/Spiny.png</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/ending.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/title.mp3</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/powerdown.wav</File>
+    <File>/Users/mcguckin/Projects/MyMario/Content/HammerBro.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,61 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/mcguckin/Projects/MyMario/Content/BigMario.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/BigMario.xnb","TextureProcessor","Texture2DContent",6479,110245,0.154549
+"/Users/mcguckin/Projects/MyMario/Content/Blocks.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Blocks.xnb","TextureProcessor","Texture2DContent",1275,10453,0.001834
+"/Users/mcguckin/Projects/MyMario/Content/Bushes.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Bushes.xnb","TextureProcessor","Texture2DContent",713,12757,0.001726
+"/Users/mcguckin/Projects/MyMario/Content/CarbonFiberBlackTexture.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/CarbonFiberBlackTexture.xnb","TextureProcessor","Texture2DContent",213018,931405,0.034192
+"/Users/mcguckin/Projects/MyMario/Content/Castle.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Castle.xnb","TextureProcessor","Texture2DContent",1113,25685,0.001694
+"/Users/mcguckin/Projects/MyMario/Content/Clouds.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Clouds.xnb","TextureProcessor","Texture2DContent",1072,19093,0.001458
+"/Users/mcguckin/Projects/MyMario/Content/dead.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/dead.xnb","SoundEffectProcessor","SoundEffectContent",986298,986217,0.116817
+"/Users/mcguckin/Projects/MyMario/Content/ending.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/ending.xnb","SongProcessor","SongContent",3493990,124,4.608068
+"/Users/mcguckin/Projects/MyMario/Content/FireBalls.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/FireBalls.xnb","TextureProcessor","Texture2DContent",933,10325,0.001463
+"/Users/mcguckin/Projects/MyMario/Content/Flag.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Flag.xnb","TextureProcessor","Texture2DContent",255,1109,0.001283
+"/Users/mcguckin/Projects/MyMario/Content/FlagPole.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/FlagPole.xnb","TextureProcessor","Texture2DContent",356,10837,0.002254
+"/Users/mcguckin/Projects/MyMario/Content/game over 2.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/game over 2.xnb","SongProcessor","SongContent",110494,129,0.190651
+"/Users/mcguckin/Projects/MyMario/Content/game over.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/game over.xnb","SongProcessor","SongContent",125537,127,0.19764
+"/Users/mcguckin/Projects/MyMario/Content/Goomba.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Goomba.xnb","TextureProcessor","Texture2DContent",568,4693,0.001516
+"/Users/mcguckin/Projects/MyMario/Content/HammerBro.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/HammerBro.xnb","TextureProcessor","Texture2DContent",1712,16725,0.002545
+"/Users/mcguckin/Projects/MyMario/Content/Hammers.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Hammers.xnb","TextureProcessor","Texture2DContent",1548,10453,0.003188
+"/Users/mcguckin/Projects/MyMario/Content/hills.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/hills.xnb","TextureProcessor","Texture2DContent",931,23765,0.0032
+"/Users/mcguckin/Projects/MyMario/Content/HUD.spritefont","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/HUD.xnb","FontDescriptionProcessor","SpriteFontContent",2013,70690,0.616633
+"/Users/mcguckin/Projects/MyMario/Content/hurry overworld.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/hurry overworld.xnb","SongProcessor","SongContent",2104603,133,2.870445
+"/Users/mcguckin/Projects/MyMario/Content/hurry underground.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/hurry underground.xnb","SongProcessor","SongContent",1208631,135,1.411645
+"/Users/mcguckin/Projects/MyMario/Content/Items.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Items.xnb","TextureProcessor","Texture2DContent",1940,24661,0.002301
+"/Users/mcguckin/Projects/MyMario/Content/Koopa.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Koopa.xnb","TextureProcessor","Texture2DContent",820,6997,0.002457
+"/Users/mcguckin/Projects/MyMario/Content/Lakitu.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Lakitu.xnb","TextureProcessor","Texture2DContent",693,5845,0.002152
+"/Users/mcguckin/Projects/MyMario/Content/level complete.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/level complete.xnb","SongProcessor","SongContent",148530,132,0.226179
+"/Users/mcguckin/Projects/MyMario/Content/LittleMario.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/LittleMario.xnb","TextureProcessor","Texture2DContent",3678,58405,0.004442
+"/Users/mcguckin/Projects/MyMario/Content/main theme overworld.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/main theme overworld.xnb","SongProcessor","SongContent",2970208,138,3.847767
+"/Users/mcguckin/Projects/MyMario/Content/nsmbFlagPole.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/nsmbFlagPole.xnb","SoundEffectProcessor","SoundEffectContent",197292,197353,0.076301
+"/Users/mcguckin/Projects/MyMario/Content/nsmbStomp2.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/nsmbStomp2.xnb","SoundEffectProcessor","SoundEffectContent",95896,95957,0.075628
+"/Users/mcguckin/Projects/MyMario/Content/nsmbwiiMenuChoose.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/nsmbwiiMenuChoose.xnb","SoundEffectProcessor","SoundEffectContent",55676,55737,0.077329
+"/Users/mcguckin/Projects/MyMario/Content/nsmbwiiMenuSelect.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/nsmbwiiMenuSelect.xnb","SoundEffectProcessor","SoundEffectContent",44768,44829,0.077133
+"/Users/mcguckin/Projects/MyMario/Content/PausedShader.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/PausedShader.xnb","TextureProcessor","Texture2DContent",571,103765,0.004988
+"/Users/mcguckin/Projects/MyMario/Content/Pipe3.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Pipe3.xnb","TextureProcessor","Texture2DContent",1689,23125,0.001824
+"/Users/mcguckin/Projects/MyMario/Content/powerdown.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/powerdown.xnb","SoundEffectProcessor","SoundEffectContent",169248,169309,0.076294
+"/Users/mcguckin/Projects/MyMario/Content/smb 1-up.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb 1-up.xnb","SoundEffectProcessor","SoundEffectContent",38426,37573,0.075547
+"/Users/mcguckin/Projects/MyMario/Content/smb breakblock.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb breakblock.xnb","SoundEffectProcessor","SoundEffectContent",5738,5799,0.069553
+"/Users/mcguckin/Projects/MyMario/Content/smb bump.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb bump.xnb","SoundEffectProcessor","SoundEffectContent",10426,9573,0.074443
+"/Users/mcguckin/Projects/MyMario/Content/smb coin.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb coin.xnb","SoundEffectProcessor","SoundEffectContent",10844,10905,0.073106
+"/Users/mcguckin/Projects/MyMario/Content/smb fireball.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb fireball.xnb","SoundEffectProcessor","SoundEffectContent",6756,5903,0.074199
+"/Users/mcguckin/Projects/MyMario/Content/smb fireworks.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb fireworks.xnb","SoundEffectProcessor","SoundEffectContent",19542,18689,0.074928
+"/Users/mcguckin/Projects/MyMario/Content/smb flagpole.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb flagpole.xnb","SoundEffectProcessor","SoundEffectContent",11654,11715,0.070781
+"/Users/mcguckin/Projects/MyMario/Content/smb jump small.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb jump small.xnb","SoundEffectProcessor","SoundEffectContent",6539,6600,0.074317
+"/Users/mcguckin/Projects/MyMario/Content/smb jump super.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb jump super.xnb","SoundEffectProcessor","SoundEffectContent",26712,25859,0.072757
+"/Users/mcguckin/Projects/MyMario/Content/smb kick.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb kick.xnb","SoundEffectProcessor","SoundEffectContent",2348,2409,0.069696
+"/Users/mcguckin/Projects/MyMario/Content/smb mariodie.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb mariodie.xnb","SoundEffectProcessor","SoundEffectContent",85568,85629,0.076454
+"/Users/mcguckin/Projects/MyMario/Content/smb pause.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb pause.xnb","SoundEffectProcessor","SoundEffectContent",31174,30321,0.07506
+"/Users/mcguckin/Projects/MyMario/Content/smb pipe.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb pipe.xnb","SoundEffectProcessor","SoundEffectContent",31368,31429,0.075955
+"/Users/mcguckin/Projects/MyMario/Content/smb powerup appears.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb powerup appears.xnb","SoundEffectProcessor","SoundEffectContent",26728,25875,0.079778
+"/Users/mcguckin/Projects/MyMario/Content/smb powerup.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb powerup.xnb","SoundEffectProcessor","SoundEffectContent",44580,43727,0.077875
+"/Users/mcguckin/Projects/MyMario/Content/smb stage clear.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb stage clear.xnb","SoundEffectProcessor","SoundEffectContent",241650,241711,0.077032
+"/Users/mcguckin/Projects/MyMario/Content/smb stomp.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb stomp.xnb","SoundEffectProcessor","SoundEffectContent",13070,12217,0.073406
+"/Users/mcguckin/Projects/MyMario/Content/smb warning.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb warning.xnb","SoundEffectProcessor","SoundEffectContent",129340,129317,0.079015
+"/Users/mcguckin/Projects/MyMario/Content/smb2 coin.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb2 coin.xnb","SoundEffectProcessor","SoundEffectContent",38632,38649,0.081814
+"/Users/mcguckin/Projects/MyMario/Content/smb2 shrink.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb2 shrink.xnb","SoundEffectProcessor","SoundEffectContent",35148,35165,0.076562
+"/Users/mcguckin/Projects/MyMario/Content/smb3 breakbrickblock.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb3 breakbrickblock.xnb","SoundEffectProcessor","SoundEffectContent",24172,24189,0.072803
+"/Users/mcguckin/Projects/MyMario/Content/smb3 kick.wav","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/smb3 kick.xnb","SoundEffectProcessor","SoundEffectContent",11792,11809,0.077692
+"/Users/mcguckin/Projects/MyMario/Content/Spiny.png","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/Spiny.xnb","TextureProcessor","Texture2DContent",684,5205,0.001941
+"/Users/mcguckin/Projects/MyMario/Content/starman.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/starman.xnb","SongProcessor","SongContent",1208467,125,1.693225
+"/Users/mcguckin/Projects/MyMario/Content/title.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/title.xnb","SongProcessor","SongContent",1155229,123,1.403947
+"/Users/mcguckin/Projects/MyMario/Content/underworld.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/underworld.xnb","SongProcessor","SongContent",1192588,128,1.344568
+"/Users/mcguckin/Projects/MyMario/Content/youre dead.mp3","/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/youre dead.xnb","SongProcessor","SongContent",113000,128,0.178819

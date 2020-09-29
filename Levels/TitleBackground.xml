@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="MyDataTypes.LevelObjectData[]">
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>BigHill</ObjectName>
+      <Location>50 410</Location>
+    </Item>
+    <Item>
+      <ObjectType>Background</ObjectType>
+      <ObjectName>Bush3</ObjectName>
+      <Location>450 470</Location>
+    </Item>
+    <Item>
+      <Build>20 2</Build>
+      <ObjectName>GroundBlock</ObjectName>
+      <Location>-155 560</Location>
+    </Item>
+  </Asset>
+</XnaContent>

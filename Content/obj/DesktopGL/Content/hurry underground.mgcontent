@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>/Users/mcguckin/Projects/MyMario/Content/hurry underground.mp3</SourceFile>
+  <SourceTime>2020-09-28T10:55:10.531072-04:00</SourceTime>
+  <DestFile>/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/hurry underground.xnb</DestFile>
+  <DestTime>2020-09-28T23:30:31.5265155-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>/Users/mcguckin/Projects/MyMario/Content/bin/DesktopGL/Content/hurry underground.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

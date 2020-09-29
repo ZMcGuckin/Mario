@@ -1,0 +1,93 @@
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/MyMario.deps.json
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/MyMario.runtimeconfig.json
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/MyMario.runtimeconfig.dev.json
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/MyMario.dll
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/MyMario.pdb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/mcguckin/Projects/MyMario/obj/Debug/netcoreapp3.1/MyMario.csprojAssemblyReference.cache
+/Users/mcguckin/Projects/MyMario/obj/Debug/netcoreapp3.1/MyMario.AssemblyInfoInputs.cache
+/Users/mcguckin/Projects/MyMario/obj/Debug/netcoreapp3.1/MyMario.AssemblyInfo.cs
+/Users/mcguckin/Projects/MyMario/obj/Debug/netcoreapp3.1/MyMario.csproj.CoreCompileInputs.cache
+/Users/mcguckin/Projects/MyMario/obj/Debug/netcoreapp3.1/MyMario.csproj.CopyComplete
+/Users/mcguckin/Projects/MyMario/obj/Debug/netcoreapp3.1/MyMario.dll
+/Users/mcguckin/Projects/MyMario/obj/Debug/netcoreapp3.1/MyMario.pdb
+/Users/mcguckin/Projects/MyMario/obj/Debug/netcoreapp3.1/MyMario.genruntimeconfig.cache
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/BigMario.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Blocks.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Bushes.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/CarbonFiberBlackTexture.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Castle.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Clouds.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/dead.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/ending.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/ending.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/FireBalls.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Flag.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/FlagPole.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/game over 2.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/game over 2.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/game over.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/game over.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Goomba.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/HammerBro.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Hammers.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/hills.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/HUD.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/hurry overworld.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/hurry overworld.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/hurry underground.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/hurry underground.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Items.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Koopa.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Lakitu.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/level complete.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/level complete.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/LittleMario.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/main theme overworld.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/main theme overworld.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/nsmbFlagPole.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/nsmbStomp2.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/nsmbwiiMenuChoose.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/nsmbwiiMenuSelect.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/PausedShader.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Pipe3.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/powerdown.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb 1-up.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb breakblock.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb bump.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb coin.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb fireball.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb fireworks.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb flagpole.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb jump small.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb jump super.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb kick.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb mariodie.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb pause.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb pipe.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb powerup appears.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb powerup.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb stage clear.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb stomp.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb warning.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb2 coin.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb2 shrink.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb3 breakbrickblock.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/smb3 kick.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/Spiny.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/starman.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/starman.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/title.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/title.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/underworld.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/underworld.xnb
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/youre dead.ogg
+/Users/mcguckin/Projects/MyMario/bin/Debug/netcoreapp3.1/Content/youre dead.xnb
